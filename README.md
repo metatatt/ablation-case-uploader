@@ -25,9 +25,11 @@ The app supports the following flow:
 
 The Case Presenter is built upon the following foundational structures and methodologies:
 
-- **Single Page Application (SPA) Structure**: Ensuring seamless user experience, the application loads and dynamically updates a single HTML page, preventing the need for constant page refreshes.
-- **JavaScript Bundling**: To optimize performance, JavaScript modules are bundled together. This not only reduces the number of HTTP requests but also enhances load times.
-- **CSS Bundling**: Just like our JavaScript, stylesheets are also bundled to ensure the app loads efficiently, offering a streamlined user experience.
+- Single Page Application (SPA) Structure
+- JavaScript Bundling
+- CSS Bundling
+- Backend, yet to start
+- no plan to update or expand
 
 ## Getting Started
 
