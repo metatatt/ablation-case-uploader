@@ -26,7 +26,7 @@ The app supports the following flow:
 
 The Case Presenter is built upon the following foundational structures and methodologies:
 
-- Single Page Application (SPA) Structure
+- Single Page Application (SPA) with React
 - JavaScript Bundling
 - CSS Bundling
 - Backend, yet to start
