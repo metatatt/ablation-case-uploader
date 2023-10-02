@@ -5,7 +5,7 @@
 
 ## Overview
 
-Case Presenter is a mockup page designed specifically for the presentation of AFIB ablation procedures. The platform guides users through a comprehensive procedural flow to ensure all relevant data and activities are captured and presented in a structured manner.
+This is a prototype web app for uploading case summaries of ablation/mapping procedures.
 ![image](https://github.com/metatatt/handChecker/assets/100538673/68c6a5b8-3539-4c1e-b7c4-d6fe479fd332)
 
 ## Procedural Flow
